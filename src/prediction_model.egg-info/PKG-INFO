@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: prediction_model
+Version: 1.0.0
+Summary: Loan Prediction Model
+Home-page: https://github.com/mahan7t7
+Author: Mahan
+Author-email: mahan7t7@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python  :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7.0
+Requires-Dist: numpy==2.1.1
+Requires-Dist: pandas==2.2.2
+Requires-Dist: joblib==1.4.2
+Requires-Dist: scikit-learn==1.5.1
+Requires-Dist: scipy==1.14.1
+Requires-Dist: setuptools==74.1.2
+Requires-Dist: wheel==0.44.0
+Requires-Dist: pytest==8.3.2
+Requires-Dist: fastapi
+Requires-Dist: pydantic
+Requires-Dist: uvicorn
+Requires-Dist: gunicorn
+
+
+nothing else
